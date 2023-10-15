@@ -10,7 +10,7 @@ tmp.*
 logs/
 weights/
 dump/
-demo/*.mp4
+demo/*.mp8
 demo/demo_images/
 src/loftr/utils/superglue.py
 demo/utils.py
